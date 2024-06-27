@@ -1,1 +1,2 @@
 seatable/seatable-developer
+jc21/nginx-proxy-manager
