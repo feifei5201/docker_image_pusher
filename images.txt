@@ -1,2 +1,4 @@
 seatable/seatable-developer
 jc21/nginx-proxy-manager
+kovaszab/photopea
+shtse8/photopea
