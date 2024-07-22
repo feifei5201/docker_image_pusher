@@ -1,2 +1,1 @@
-seatable/seatable-developer
 2fauth/2fauth
