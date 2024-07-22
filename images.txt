@@ -1,3 +1,2 @@
 seatable/seatable-developer
-jc21/nginx-proxy-manager
 2fauth/2fauth
