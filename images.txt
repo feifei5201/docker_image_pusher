@@ -2,3 +2,4 @@ seatable/seatable-developer
 jc21/nginx-proxy-manager
 kovaszab/photopea
 shtse8/photopea
+2fauth/2fauth:5.1.1
